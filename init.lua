@@ -1,0 +1,2 @@
+require("tazik")
+print("hello")
